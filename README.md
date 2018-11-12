@@ -68,9 +68,9 @@ By following dumps, you can even dig deeper into particular topics of your inter
 
 One of such application which I suggest for 1Z0-808 and IZ0-809 is this:
 
-[https://www.certification-questions.com/java8-dumps.html](https://www.certification-questions.com/java8-dumps.html?utm_source=github&utm_medium=vinaypoddar1&utm_campaign=github)
+[https://www.certification-questions.com/java8-dumps.html](https://goo.gl/ZvrfAY)
 
-You get,
+***You get,***
 - A vibrant and self intuitive test simulator  which works cross browser and device.
 - Simulator is also available as iOS and android app.
 - No need to sign in or login to access the application.
