@@ -6,6 +6,13 @@ Like other vendors, Oracle also offers certification for its open source, widely
 
 So in this post, I will help you to learn what the Oracle Java Programmer certification is, how you can practice and the benefits you can expect from being a recognized professional.
 
+## Content
+- [Various levels of Oracle Java Certification](https://github.com/vinaypoddar1/advantages-of-java-certification#various-levels-of-oracle-java-certification)
+- [Where you get the Certification?](https://github.com/vinaypoddar1/advantages-of-java-certification#where-you-get-the-certification)
+- [What you will get after certification?](https://github.com/vinaypoddar1/advantages-of-java-certification#what-you-will-get-after-certification)
+- [How to prepare for the certifications?](https://github.com/vinaypoddar1/advantages-of-java-certification#how-to-prepare-for-the-certifications)
+- [Conclusion](https://github.com/vinaypoddar1/advantages-of-java-certification#conclution)
+
 ## Various levels of Oracle Java Certification
 *Oracle Certified Associate (OCA)* is the entry-level certification for Java programmers. It helps you build a foundation of the language while expanding your knowledge of general programming. You’ll learn (or reinforce) the basics of the language like variables, data types, arrays, loops, classes, methods, exceptions and also some not-so-basic topics like implicit narrowing, explicit casting, auto-boxing, nested classes, polymorphism and inheritance, abstract classes and interfaces, and some specific APIs to deal with collections, strings and calendar objects.
 
