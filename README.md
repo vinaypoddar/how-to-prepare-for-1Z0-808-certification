@@ -14,9 +14,9 @@ So in this post, I will help you to learn what the Oracle Java Programmer certif
 - [Conclusion](https://github.com/vinaypoddar1/advantages-of-java-certification#conclution)
 
 ## Various levels of Oracle Java Certification
-*Oracle Certified Associate (OCA)* is the entry-level certification for Java programmers. It helps you build a foundation of the language while expanding your knowledge of general programming. You’ll learn (or reinforce) the basics of the language like variables, data types, arrays, loops, classes, methods, exceptions and also some not-so-basic topics like implicit narrowing, explicit casting, auto-boxing, nested classes, polymorphism and inheritance, abstract classes and interfaces, and some specific APIs to deal with collections, strings and calendar objects.
+*Oracle Certified Associate (OCA) - 1Z0-808* is the entry-level certification for Java programmers. It helps you build a foundation of the language while expanding your knowledge of general programming. You’ll learn (or reinforce) the basics of the language like variables, data types, arrays, loops, classes, methods, exceptions and also some not-so-basic topics like implicit narrowing, explicit casting, auto-boxing, nested classes, polymorphism and inheritance, abstract classes and interfaces, and some specific APIs to deal with collections, strings and calendar objects.
 
-*Oracle Certified Professional (OCP)* builds upon the fundamental OCA skills and demonstrates a high level of knowledge and skills. It deals with more advanced topics like design patterns, generics, File I/O (NIO.2), JDBC, threads and concurrency. While you can get the OCA even having little or no previous experience working with Java, in my opinion getting the OCP needs to be backed up by some hands-on experience.
+*Oracle Certified Professional (OCP) - 1Z0-809* builds upon the fundamental OCA skills and demonstrates a high level of knowledge and skills. It deals with more advanced topics like design patterns, generics, File I/O (NIO.2), JDBC, threads and concurrency. While you can get the OCA even having little or no previous experience working with Java, in my opinion getting the OCP needs to be backed up by some hands-on experience.
 
 ## Where you get the Certification?
 | Exam Code | Exam Name | Price |
