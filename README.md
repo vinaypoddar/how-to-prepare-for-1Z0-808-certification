@@ -1,4 +1,4 @@
-# Advantages of Java Certification
+# How to Prepare for 1Z0-808 Certification
 In the cutting edge market, a certified professional always stand out of the crowd and also gives a measurable insight to the employers about your skills.
 
 There are various certification available in the market, but we here will specifically talk about Java Certification.
@@ -10,7 +10,7 @@ So in this post, I will help you to learn what the Oracle Java Programmer certif
 - [Various levels of Oracle Java Certification](https://github.com/vinaypoddar1/advantages-of-java-certification#various-levels-of-oracle-java-certification)
 - [Where you get the Certification?](https://github.com/vinaypoddar1/advantages-of-java-certification#where-you-get-the-certification)
 - [What you will get after certification?](https://github.com/vinaypoddar1/advantages-of-java-certification#what-you-will-get-after-certification)
-- [How to prepare for the certifications?](https://github.com/vinaypoddar1/advantages-of-java-certification#how-to-prepare-for-the-certifications)
+- [How to Prepare for 1Z0-808 Certification?](https://github.com/vinaypoddar1/advantages-of-java-certification#how-to-prepare-for-1z0-808-certifications)
 - [Conclusion](https://github.com/vinaypoddar1/advantages-of-java-certification#conclution)
 
 ## Various levels of Oracle Java Certification
@@ -59,7 +59,7 @@ And this is the list of topics included in __1Z0-809__:
 
 Just to share with you, I started my career as a Ruby programmer who eventually landed up on Java due to project requirements. Although for me, a programming language is mare a syntax for carrying out some functionality. But even after working over Java for a while, I was not very confident over my knowledge of Java because I had no mechanism to evaluate it. So a certification not just helped me to evaluate my skills but also gave me chance to dig deeper into those areas which were untouched by me. Similarly if you are working on an out-dated version, you will get a very good insight of what's going on in the newer versions.
 
-## How to prepare for the certifications?
+## How to Prepare for 1Z0-808 Certification?
 Obviously preparation means efforts and study, as there is no way to circumvent it. And yes, so you have to study and you actually should!
 But more than that we are not machines but humans, thus the preparation should depend upon one's preference, schedule, capacity, etc.
 
