@@ -10,7 +10,7 @@ So in this post, I will help you to learn what the Oracle Java Programmer certif
 - [Various levels of Oracle Java Certification](https://github.com/vinaypoddar1/advantages-of-java-certification#various-levels-of-oracle-java-certification)
 - [Where you get the Certification?](https://github.com/vinaypoddar1/advantages-of-java-certification#where-you-get-the-certification)
 - [What you will get after certification?](https://github.com/vinaypoddar1/advantages-of-java-certification#what-you-will-get-after-certification)
-- [How to Prepare for 1Z0-808 Certification?](https://github.com/vinaypoddar1/advantages-of-java-certification#how-to-prepare-for-1z0-808-certifications)
+- [How to Prepare for 1Z0-808 Certification?](https://github.com/vinaypoddar1/how-to-prepare-for-1Z0-808-certification#how-to-prepare-for-1z0-808-certification-1)
 - [Conclusion](https://github.com/vinaypoddar1/advantages-of-java-certification#conclution)
 
 ## Various levels of Oracle Java Certification
